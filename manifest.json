@@ -1,0 +1,10 @@
+{
+  "name": "Catatan Dana",
+  "short_name": "Catatan Dana",
+  "description": "Aplikasi pencatat pemasukan dan pengeluaran pribadi",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#0757d5",
+  "orientation": "portrait"
+}
